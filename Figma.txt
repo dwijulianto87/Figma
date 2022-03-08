@@ -1,0 +1,20 @@
+
+
+Figma adalah Aplikasi desain UI dan UX editor grafis vektor dan alat prototyping dengan berbasis web
+
+1. create team(new project) -> new file -> rename untitled 
+> Frame/akboard (kerangka dasar) -> new frame (rename frame) (shortcut - F)
+> Layer -> struktur frame 
+> assets -> tempat untuk menyimpan komponen yang bisa digunakan berulang
+
+> pages -> folder
+
+> group -> shift & select -> klik kanan(group selection)
+
+> ctrl & d (duplikat)
+
+> Rectangle/container -> biasa digunakan untuk background
+
+> Teks -> alt & arah(menggeser), alt & klik(duplikat) 
+
+> shapes/bentuk/teks

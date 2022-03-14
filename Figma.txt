@@ -3,18 +3,48 @@
 Figma adalah Aplikasi desain UI dan UX editor grafis vektor dan alat prototyping dengan berbasis web
 
 1. create team(new project) -> new file -> rename untitled 
-> Frame/akboard (kerangka dasar) -> new frame (rename frame) (shortcut - F)
-> Layer -> struktur frame 
-> assets -> tempat untuk menyimpan komponen yang bisa digunakan berulang
 
-> pages -> folder
+2. Frame/akboard (kerangka dasar) -> new frame (rename frame) (shortcut - F)
 
-> group -> shift & select -> klik kanan(group selection)
+3. Layer -> struktur element, untuk Posisi komponen di layer (posisi komponen diatas, maka posisi komponen berada di tumpukan teratas) 
 
-> ctrl & d (duplikat)
+4. assets -> tempat untuk menyimpan komponen yang bisa digunakan berulang
 
-> Rectangle/container -> biasa digunakan untuk background
+5. pages/halaman -> folder
 
-> Teks -> alt & arah(menggeser), alt & klik(duplikat) 
+6. group -> shift & select -> klik kanan(group selection)
 
-> shapes/bentuk/teks
+   - ctrl & d (duplikat)
+
+7. Rectangle/container -> biasa digunakan untuk background
+
+8. Teks tools -> alt & arah(menggeser), alt & klik(duplikat) 
+
+9. image -> ctrl & klik arah mouse (crop)
+
+10. shapes/bentuk/teks
+
+11. Button UI -> buat dengan Rectangle
+
+
+12. Prototype adalah fitur yang memudahkan kamu untuk menguji rancangan desain yang sudah kamu buat dengan mencoba menjalankannya seperti sebuah aplikasi. Fitur ini berguna ketika kamu ingin membuat beberapa rancangan tampilan secara real–time dan nyata.
+
+    Di dalam fitur ini, kamu akan merasakan bagaimana rancangan dasar dari aplikasi yang sedang kamu buat. Prototype ini memberikan pengalaman rancangan dasar tersebut menjadi layaknya aplikasi siap guna.
+
+13. Component adalah element yang terdiri dari beberapa properti yang dibuat menjadi satu group.
+
+    > fungsinya untuk mempercepat pengembangan dan menyeragamkan design 
+    > penyimpanan berada pada assets
+    > contoh membuat component button
+	- klik kanan componen button (pilih create component)
+	- maka component button dibuat di dan tersimpan di assets
+	- penggunakan ulang tinggal drag ke frame target
+
+
+
+
+
+
+
+
+

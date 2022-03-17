@@ -1,5 +1,26 @@
 
 
+A. UX Designer
+   Persiapan yang diperlukan seorang UX design untuk meningkatkan kualitas produk digital :
+
+1. menentukan jenis website yang akan kita buat(contoh website marketplace)
+
+2. Competitive research -> mencari kekurangan dan kelebihan website marketplace lain, lalu di tulis dalam dokument.
+
+3. Ux Survey -> contoh menggunakan google form google.com/forms yang berisi pertanyaan - pertanyaan seputar marketplace.
+
+4. Customer persona (membuat profile untuk calon pengguna)
+   -> profile nantinya digunakan untuk mencari audient yang bersedia di interview untuk melakukan usebility testing
+
+5. User flow & journey -> digunakan untuk membuat paduan pengguna website kita
+   - (https://www.mindmeister.com)
+
+6. Prototyping dan User-testing -> Wireframe lebih mirip dengan architectural blueprints, sedangkan prototype merupakan representasi        high fidelity dari produk yang sudah final.
+
+
+
+
+B. Figma
 Figma adalah Aplikasi desain UI dan UX editor grafis vektor dan alat prototyping dengan berbasis web
 
 1. create team(new project) -> new file -> rename untitled 
@@ -27,7 +48,7 @@ Figma adalah Aplikasi desain UI dan UX editor grafis vektor dan alat prototyping
 11. Button UI -> buat dengan Rectangle
 
 
-12. Prototype adalah fitur yang memudahkan kamu untuk menguji rancangan desain yang sudah kamu buat dengan mencoba menjalankannya seperti sebuah aplikasi. Fitur ini berguna ketika kamu ingin membuat beberapa rancangan tampilan secara real–time dan nyata.
+12. Prototype adalah fitur yang memudahkan kamu untuk menguji rancangan desain yang sudah kamu buat dengan mencoba menjalankannya seperti sebuah aplikasi. Fitur ini berguna ketika kamu ingin membuat beberapa rancangan tampilan secara realâ€“time dan nyata.
 
     Di dalam fitur ini, kamu akan merasakan bagaimana rancangan dasar dari aplikasi yang sedang kamu buat. Prototype ini memberikan pengalaman rancangan dasar tersebut menjadi layaknya aplikasi siap guna.
 
